@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ingridr15/UsoState.git/static/css/main.e77abc71.css",
+    "main.js": "/Ingridr15/UsoState.git/static/js/main.835ca1ab.js",
+    "static/js/787.f7d22fdd.chunk.js": "/Ingridr15/UsoState.git/static/js/787.f7d22fdd.chunk.js",
+    "static/media/imagen.png": "/Ingridr15/UsoState.git/static/media/imagen.f37d0ea2baf2ab79a7ae.png",
+    "index.html": "/Ingridr15/UsoState.git/index.html",
+    "main.e77abc71.css.map": "/Ingridr15/UsoState.git/static/css/main.e77abc71.css.map",
+    "main.835ca1ab.js.map": "/Ingridr15/UsoState.git/static/js/main.835ca1ab.js.map",
+    "787.f7d22fdd.chunk.js.map": "/Ingridr15/UsoState.git/static/js/787.f7d22fdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77abc71.css",
+    "static/js/main.835ca1ab.js"
+  ]
+}
