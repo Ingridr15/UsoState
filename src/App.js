@@ -115,7 +115,7 @@ class App extends Component {
           <Form onSubmit={this.enviar}>
             <Form.Group className="Entrada">{/* controlId="numeroCancion"\>*/}
               <Form.Label>Número de canción</Form.Label>
-              <Form.Control type="number" placeholder="Ejm. 0001" onChange={this.guardarCambios} value={this.state.cancion.number} name="number" disabled={this.state.desactivado} />
+              <Form.Control type="number" placeholder="Ej. 0001" onChange={this.guardarCambios} value={this.state.cancion.number} name="number" disabled={this.state.desactivado} />
             </Form.Group>
 
             <Form.Group className="Entrada" >{/*controlId="nombreCancion"*/}
